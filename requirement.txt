@@ -5,3 +5,6 @@ langchain-core
 langchain-openai
 langchain-community
 langchain-groq
+langchain_huggingface
+faiss-cpu
+langchain_google_genai
