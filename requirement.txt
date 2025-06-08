@@ -12,3 +12,4 @@ langchain-pinecone
 wikipedia
 youtube_search
 langgraph
+langchain_astradb
