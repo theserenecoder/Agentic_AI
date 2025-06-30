@@ -21,3 +21,4 @@ unstructured-ingest==0.7.2
 unstructured.pytesseract==0.3.15
 langchain-unstructured[local]==0.1.6
 duckduckgo-search
+langchain-docling
